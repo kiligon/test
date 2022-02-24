@@ -1,3 +1,2 @@
-print("Hello world")
-print("New string")
-print("pull")
+for nums in range(1,20):
+    print("line:"+str(nums)):
